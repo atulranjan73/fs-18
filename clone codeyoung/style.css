@@ -1,0 +1,11 @@
+.parent{
+ display: flex;  
+ background-color: rgba(240, 213, 15, 0.569); 
+}
+.left{
+    width: 70%;
+    font-size: 30px;
+}
+.right{
+    
+}

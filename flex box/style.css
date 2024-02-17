@@ -1,0 +1,10 @@
+img{
+    height: 200px;
+    margin: 5px;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
